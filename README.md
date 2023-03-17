@@ -9,7 +9,7 @@ Direct Download links like these are will regularly appear in BetterDiscord serv
 Method 2: Save Page As
 This method is used when you're downloading this theme from here, my github repo, and you don't want to waste your time downloading the entire repo.
 
-Click on the file called "Hu tao.theme.css".
+Click on the file called "[your theme].theme.css".
 Click on the button called Raw at the top right of the file.
 Right click anywhere on page and Click Save Page As.
 Now you can navigate to your themes folder and save it there but for this procedure, just save it to your Downloads folder for now, we'll move it later in the Installation.
